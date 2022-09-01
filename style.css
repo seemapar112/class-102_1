@@ -1,0 +1,20 @@
+h1{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+h3{
+    font-style: italic;
+}
+
+.Footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img:hover{
+    border-radius: 14px;
+}
